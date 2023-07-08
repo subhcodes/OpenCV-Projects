@@ -1,4 +1,4 @@
-#nstall All the modules mentioned below 
+
 #pip install tk-tools
 #pip install opencv-contrib-python
 #pip install datetime
